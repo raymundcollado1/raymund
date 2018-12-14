@@ -1,0 +1,116 @@
+body{
+	background-image: url("cameraa.jpg");
+	background-color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+	font-family: Castellar;
+}
+	
+.mainpage{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+.all{
+	background: #444;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.box {
+	height: 2px;
+	width: 450px;
+	background: white;
+}
+.box1{
+	margin-left: 440px;
+	height: 1px;
+	width: 250px;
+	background: white;
+}
+.box2{
+	margin-left: 140px;
+	height: 1px;
+	width: 280px;
+	background: white;
+}
+.box3{
+	height: 1px;
+	width: 550px;
+	background: white;
+}
+.picture {
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+}
+.profile{
+	text-align: center;
+	display: inline-block;
+}
+.services{
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}	
+.resume{
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.char{
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.tag{
+	display: inline-block;
+}
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+}
+.ham{
+	padding: 5px;
+	border: white 2px solid;
+	border-radius: 5px;
+	text-align: center;
+	display: inline-block;
+}
+.icon a{
+	text-decoration: none;
+	color: white;
+}
+.kahon {
+	margin-left: 275px;
+	height: 1px;
+	width: 600px;
+	background: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-instagram {
+    background: #444;
+}
+.fa-google {
+    background: #444;
+}
+.fa-facebook {
+    background: #444;
+}
+h2 {
+	color: white;
+}
